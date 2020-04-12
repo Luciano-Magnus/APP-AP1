@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cerveja</string>
+    <string name="cerveja1">Primeira cerveja</string>
+    <string name="cerveja2">Segunda cerveja</string>
+    <string name="cerevjabarata1">Pimeira cerveja é mais barata</string>
+    <string name="cerevjabarata2">Segunda cerveja é mais barata</string>
+    <string name="add">Adiconar</string>
+    <string name="result">Resultado</string>
+</resources>
